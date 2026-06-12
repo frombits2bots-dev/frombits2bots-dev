@@ -30,15 +30,6 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-LangChain%20%7C%20PyTorch-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3-Hardhat%20%7C%20Solidity-363636?style=flat-square&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile-Android%20Studio%20%7C%20Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infra%2FDevOps-Docker%20%7C%20K8s%20%7C%20AWS%20%7C%20Terraform-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</p>
-
-<p align="center">
   <kbd>
     <kbd>Frontend</kbd><br><br>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
@@ -99,7 +90,7 @@
     <kbd>DevSecOps</kbd><br><br>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" title="SonarQube"/>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" title="HashiCorp Vault"/>
-    <img width="28px" src="https://www.vectorlogo.zone/logos/snyk/snyk-icon.svg" title="Snyk" width="28px"/>
+    <img width="28px" src="https://www.vectorlogo.zone/logos/snyk/snyk-icon.svg" title="Snyk"/>
     <img width="28px" src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" title="OWASP"/>
   </kbd>
   <kbd>
@@ -131,32 +122,30 @@
   </kbd>
 </p>
 
----
-
 <p align="center">
   <kbd>
     <kbd>🤖 GenAI, ML & Automation</kbd><br><br>
-    <img width="28px" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" title="LangChain"/>
+    <img width="28px" src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" title="LangChain"/>
     <img width="28px" src="https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logoColor=white" title="LlamaIndex"/>
-    <img width="28px" src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" title="Vercel AI SDK"/>
-    <img width="28px" src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" title="Google ADK"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel AI SDK"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" title="Google ADK"/>
     <img width="28px" src="https://img.shields.io/badge/Mastra-6D28D9?style=flat-square&logoColor=white" title="Mastra"/>
-    <img width="28px" src="https://img.shields.io/badge/Genkit-FF6F00?style=flat-square&logo=firebase&logoColor=white" title="Genkit"/>
-    <img width="28px" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" title="OpenAI"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Genkit"/>
+    <img width="28px" src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" title="OpenAI"/>
     <img width="28px" src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=black" title="Anthropic"/>
-    <img width="28px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" title="PyTorch"/>
-    <img width="28px" src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" title="Keras"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" title="Keras"/>
     <img width="28px" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face"/>
-    <img width="28px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" title="TensorFlow"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
     <img width="28px" src="https://img.shields.io/badge/LSTM%20Networks-013243?style=flat-square&logo=numpy&logoColor=white" title="LSTM Networks"/>
-    <img width="28px" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" title="scikit-learn"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn"/>
     <img width="28px" src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" title="Pinecone"/>
     <img width="28px" src="https://img.shields.io/badge/Weaviate-25A18E?style=flat-square&logoColor=white" title="Weaviate"/>
     <img width="28px" src="https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logoColor=white" title="ChromaDB"/>
     <img width="28px" src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white" title="Milvus"/>
     <img width="28px" src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" title="Qdrant"/>
     <img width="28px" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" title="n8n"/>
-    <img width="28px" src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" title="Apache Airflow"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow"/>
     <img width="28px" src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" title="Celery"/>
   </kbd>
 </p>
@@ -164,16 +153,16 @@
 <p align="center">
   <kbd>
     <kbd>⛓️ Web3 Stack, Tooling & Node Providers</kbd><br><br>
-    <img width="28px" src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" title="Solidity"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" title="Solidity"/>
     <img width="28px" src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" title="Hardhat"/>
     <img width="28px" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" title="OpenZeppelin"/>
     <img width="28px" src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" title="Chainlink"/>
     <img width="28px" src="https://img.shields.io/badge/Smart%20Escrow%20Systems-1B1F3A?style=flat-square&logo=ethereum&logoColor=white" title="Smart Escrow Systems"/>
     <img width="28px" src="https://img.shields.io/badge/R3%20Corda-EC1D24?style=flat-square&logoColor=white" title="R3 Corda"/>
     <img width="28px" src="https://img.shields.io/badge/The%20Graph-5E29A9?style=flat-square&logo=thegraph&logoColor=white" title="The Graph"/>
-    <img width="28px" src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" title="IPFS"/>
+    <img width="28px" src="https://www.vectorlogo.zone/logos/ipfs/ipfs-icon.svg" title="IPFS"/>
     <img width="28px" src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" title="Ethers.js"/>
-    <img width="28px" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" title="Web3.js"/>
+    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-original.svg" title="Web3.js"/>
     <img width="28px" src="https://img.shields.io/badge/wagmi-1A1A1A?style=flat-square&logo=ethereum&logoColor=white" title="wagmi"/>
     <img width="28px" src="https://img.shields.io/badge/viem-FFC517?style=flat-square&logoColor=black" title="viem"/>
     <img width="28px" src="https://img.shields.io/badge/Alchemy-0C2340?style=flat-square&logo=alchemy&logoColor=white" title="Alchemy"/>
@@ -203,7 +192,6 @@ We operate as open innovative project builders alongside client delivery work �
 - ⚡ **Rapid Prototyping** — LLM agents, Web3 protocols, and mobile SDKs built under production constraints
 - 🔒 **Security-First Design** — Every experiment ships with hardened auth, observability, and audit trails
 - 🔄 **Feedback-Driven Iteration** — Public validation loops accelerate product-market fit
-
 
 ---
 
