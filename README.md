@@ -126,7 +126,7 @@
   <kbd>
     <kbd>🤖 GenAI, ML & Automation</kbd><br><br>
     <img width="32px" src="https://cdn.simpleicons.org/langchain/1C3C3C" title="LangChain"/>
-    <img width="32px" src="https://cdn.simpleicons.org/openai/412991" title="OpenAI"/>
+    <img height="28px" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" title="OpenAI"/>
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch"/>
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" title="Keras"/>
     <img height="28px" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face"/>
@@ -142,7 +142,7 @@
   <kbd>
     <kbd>⛓️ Web3, Blockchain & Smart Contracts</kbd><br><br>
     <img width="36px" src="https://cdn.simpleicons.org/blockchaindotcom/121011" title="Blockchain Tech"/>
-    <img width="36px" src="https://cdn.simpleicons.org/hyperledger/2F3134" title="Hyperledger"/>
+    <img height="28px" src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" title="Hyperledger"/>
     <img height="28px" src="https://img.shields.io/badge/R3%20Corda-EC1D24?style=flat-square&logo=r3&logoColor=white" title="R3 Corda"/>
     <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" title="Solidity"/>
     <img width="36px" src="https://cdn.simpleicons.org/openzeppelin/4E5EE4" title="OpenZeppelin"/>
