@@ -126,51 +126,29 @@
   <kbd>
     <kbd>🤖 GenAI, ML & Automation</kbd><br><br>
     <img width="28px" src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" title="LangChain"/>
-    <img width="28px" src="https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logoColor=white" title="LlamaIndex"/>
-    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel AI SDK"/>
-    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" title="Google ADK"/>
-    <img width="28px" src="https://img.shields.io/badge/Mastra-6D28D9?style=flat-square&logoColor=white" title="Mastra"/>
-    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Genkit"/>
     <img width="28px" src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" title="OpenAI"/>
-    <img width="28px" src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=black" title="Anthropic"/>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch"/>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" title="Keras"/>
     <img width="28px" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face"/>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
-    <img width="28px" src="https://img.shields.io/badge/LSTM%20Networks-013243?style=flat-square&logo=numpy&logoColor=white" title="LSTM Networks"/>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn"/>
     <img width="28px" src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" title="Pinecone"/>
-    <img width="28px" src="https://img.shields.io/badge/Weaviate-25A18E?style=flat-square&logoColor=white" title="Weaviate"/>
-    <img width="28px" src="https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logoColor=white" title="ChromaDB"/>
-    <img width="28px" src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white" title="Milvus"/>
-    <img width="28px" src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" title="Qdrant"/>
+    <img width="28px" src="https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logo=chroma&logoColor=white" title="ChromaDB"/>
     <img width="28px" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" title="n8n"/>
-    <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow"/>
-    <img width="28px" src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" title="Celery"/>
   </kbd>
 </p>
 
 <p align="center">
   <kbd>
-    <kbd>⛓️ Web3 Stack, Tooling & Node Providers</kbd><br><br>
+    <kbd>⛓️ Web3, Blockchain & Smart Contracts</kbd><br><br>
+    <img width="28px" src="https://img.shields.io/badge/Blockchain%20Tech-121011?style=flat-square&logo=blockchaindotcom&logoColor=white" title="Blockchain Tech"/>
+    <img width="28px" src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" title="Hyperledger"/>
+    <img width="28px" src="https://img.shields.io/badge/R3%20Corda-EC1D24?style=flat-square&logo=r3&logoColor=white" title="R3 Corda"/>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" title="Solidity"/>
-    <img width="28px" src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" title="Hardhat"/>
     <img width="28px" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" title="OpenZeppelin"/>
     <img width="28px" src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" title="Chainlink"/>
-    <img width="28px" src="https://img.shields.io/badge/Smart%20Escrow%20Systems-1B1F3A?style=flat-square&logo=ethereum&logoColor=white" title="Smart Escrow Systems"/>
-    <img width="28px" src="https://img.shields.io/badge/R3%20Corda-EC1D24?style=flat-square&logoColor=white" title="R3 Corda"/>
-    <img width="28px" src="https://img.shields.io/badge/The%20Graph-5E29A9?style=flat-square&logo=thegraph&logoColor=white" title="The Graph"/>
-    <img width="28px" src="https://www.vectorlogo.zone/logos/ipfs/ipfs-icon.svg" title="IPFS"/>
     <img width="28px" src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" title="Ethers.js"/>
     <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-original.svg" title="Web3.js"/>
-    <img width="28px" src="https://img.shields.io/badge/wagmi-1A1A1A?style=flat-square&logo=ethereum&logoColor=white" title="wagmi"/>
-    <img width="28px" src="https://img.shields.io/badge/viem-FFC517?style=flat-square&logoColor=black" title="viem"/>
-    <img width="28px" src="https://img.shields.io/badge/Alchemy-0C2340?style=flat-square&logo=alchemy&logoColor=white" title="Alchemy"/>
-    <img width="28px" src="https://img.shields.io/badge/QuickNode-3772FF?style=flat-square&logo=quicknode&logoColor=white" title="QuickNode"/>
-    <img width="28px" src="https://img.shields.io/badge/Infura-FF5833?style=flat-square&logo=infura&logoColor=white" title="Infura"/>
-    <img width="28px" src="https://img.shields.io/badge/Chainstack-1A1A2E?style=flat-square&logoColor=white" title="Chainstack"/>
-    <img width="28px" src="https://img.shields.io/badge/Ankr-2E6EFF?style=flat-square&logo=ankr&logoColor=white" title="Ankr"/>
-    <img width="28px" src="https://img.shields.io/badge/Helius-9945FF?style=flat-square&logoColor=white" title="Helius"/>
   </kbd>
 </p>
 
