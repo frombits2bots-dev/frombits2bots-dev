@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/your_instagram_handle"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/company/your-username"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://linktr.ee/your-username"><img src="https://img.shields.io/badge/Linktree-%2339E09B.svg?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://www.instagram.com/frombits2bots.dev?igsh=MXdtd2R6dWN2MW50aA=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/frombits2bots-dev-60131b416"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linktr.ee/frombits2bots.dev.team"><img src="https://img.shields.io/badge/Linktree-%2339E09B.svg?style=for-the-badge&logo=linktree&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Under%20Construction-555555?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://calendly.com/your-link"><img src="https://img.shields.io/badge/Discovery%20Call-Coming%20Soon-006BFF?style=for-the-badge&logo=calendly&logoColor=white"/></a>
 </p>
@@ -175,6 +175,7 @@ We operate as open innovative project builders alongside client delivery work �
 
 ## 📬 Contact
 
-- 📧 **Email:** your-team-email@example.com
-- 📅 **Discovery Call:** [Book via Calendly](https://calendly.com/your-link) *(coming soon)*
-- 💬 **GitHub:** Open a Discussion in this repository
+- 📧 **Email:** [hello@frombits2bots.dev.team](mailto:frombits2bots.dev.team@gmail.com?subject=Project%20Inquiry%20-%20frombits2bots)
+- 📸 **Instagram:** [@Team frombits2bots.dev](https://www.instagram.com/frombits2bots.dev?igsh=MXdtd2R6dWN2MW50aA==)
+- 💼 **LinkedIn:** [frombits2bots-dev](https://www.linkedin.com/in/frombits2bots-dev-60131b416)
+
